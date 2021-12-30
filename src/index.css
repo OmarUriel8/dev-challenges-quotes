@@ -1,0 +1,62 @@
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+*,
+*::after,
+*::before {
+	box-sizing: inherit;
+}
+
+body {
+	max-height: 100vh;
+	font-size: 16px; /* px fallback */
+	font-size: 1.6rem; /* default font-size for document */
+	line-height: 1.5; /* a nice line-height */
+	font-family: 'Roboto', sans-serif;
+	background: #86eae9; /* Old browsers */
+	background: -moz-linear-gradient(
+		left,
+		#86eae9 0%,
+		#4691b7 40%,
+		#3c6696 79%,
+		#353c6e 100%
+	); /* FF3.6-15 */
+	background: -webkit-linear-gradient(
+		left,
+		#86eae9 0%,
+		#4691b7 40%,
+		#3c6696 79%,
+		#353c6e 100%
+	); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(
+		to right,
+		#86eae9 0%,
+		#4691b7 40%,
+		#3c6696 79%,
+		#353c6e 100%
+	); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#86eae9', endColorstr='#353c6e',GradientType=1 ); /* IE6-9 */
+	color: #333333;
+}
+
+h1 {
+	font-size: 4.8rem;
+}
+
+h2 {
+	font-size: 4rem;
+	line-height: 1.2;
+}
+
+h3 {
+	font-size: 3.2rem;
+}
+
+h4 {
+	font-size: 2.8rem;
+}
+a {
+	text-decoration: none;
+}
+
