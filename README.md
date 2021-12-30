@@ -1,4 +1,4 @@
-# Country Quiz 
+# Random Quote Generator
 
 ---
 
