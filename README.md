@@ -15,7 +15,7 @@
 
 ---
 
-App que genera citas aleatorias, al darle a algun autor se muestran como maximo 20 citas del autor seleccionado 
+Pantalla principal
 
 ![](./src/image/screen.png)
 
@@ -23,7 +23,7 @@ App que genera citas aleatorias, al darle a algun autor se muestran como maximo 
 
 ---
 
-Se muestran distintos botones, en base a tamaños, fondos, contornos o solo el texto
+App que genera citas aleatorias, al darle a algun autor se muestran como maximo 20 citas del autor seleccionado 
 
 ## Recursos
 
